@@ -1,0 +1,6 @@
+# ignore the external libraries
+**/lib/
+# ignore the external repositories
+**/profiles/repository/master/
+**/profiles/repository/shared/
+
