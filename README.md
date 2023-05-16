@@ -1,6 +1,6 @@
 # jeyzer-external
 The Jeyzer External project is a facade - for build and dev run purposes - over the external libraries, external repositories and related common resources.
-It must contain the master branch of the .
+It must contain the master branch of the graphstream-core-alt and retrace-alt libraries.
 
 
 Prerequisites
